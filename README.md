@@ -26,6 +26,16 @@ This poses following personality traits:
 - Any technology or programming language is tool you can change, not golden calf.
 - If we could change ourselves, the tendencies in the world would also change. As a man changes his own nature, so does the attitude of the world change towards him.
 
+## Video worth of watching
+
+- [Agile Everywhere!](https://www.youtube.com/watch?v=moKG0RQNiqM) by Henrik Kniberg
+- [[CZ only] Funkční Team](https://www.youtube.com/watch?v=AnF3ZWND8Bw&t=63s) - by Kolda
+- [[CZ only] Jak správně přemýšlet nad prací vývojářů?](https://mladypodnikatel.cz/tomas-rehor-pipedrive-jak-spravne-premyslet-nad-praci-vyvojaru-t36548) by Tomáš Řehoř
+
+## Studies & theories I find interesting
+
+- [Inglehart–Welzel cultural map of the world](https://en.wikipedia.org/wiki/Inglehart–Welzel_cultural_map_of_the_world)
+
 ## TODOs
 
 I started tracking my development TODOs (out of my daily tasks) in [Trello](https://trello.com/b/TlUj6zcw/todos)
@@ -39,16 +49,6 @@ These are some long-term, life goals I would like to accomplish so I can tell my
 - Get pilot licence to fly with Cessna
 - Learn to sail
 - Climb mountain with attitude 6000 m above sea level
-
-## Video worth of watching
-
-- [Agile Everywhere!](https://www.youtube.com/watch?v=moKG0RQNiqM) by Henrik Kniberg
-- [[CZ only] Funkční Team](https://www.youtube.com/watch?v=AnF3ZWND8Bw&t=63s) - by Kolda
-- [[CZ only] Jak správně přemýšlet nad prací vývojářů?](https://mladypodnikatel.cz/tomas-rehor-pipedrive-jak-spravne-premyslet-nad-praci-vyvojaru-t36548) by Tomáš Řehoř
-
-## Studies & theories I find interesting
-
-- [Inglehart–Welzel cultural map of the world](https://en.wikipedia.org/wiki/Inglehart–Welzel_cultural_map_of_the_world)
 
 ## Credits
 
