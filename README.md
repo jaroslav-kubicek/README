@@ -28,7 +28,7 @@ This poses the following personality traits:
 
 ## Important tech articles
 
-[Where art thou, my error?](https://artsy.github.io/blog/2018/10/19/where-art-thou-my-error/) - error handling in GraphQL schema by Artsy
+- [Where art thou, my error?](https://artsy.github.io/blog/2018/10/19/where-art-thou-my-error/) - error handling in GraphQL schema by Artsy
 
 ## Video worth watching
 
