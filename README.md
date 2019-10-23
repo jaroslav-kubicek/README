@@ -26,6 +26,10 @@ This poses the following personality traits:
 - Any technology or programming language is tool you can change, not golden calf.
 - If we could change ourselves, the tendencies in the world would also change. As a man changes his own nature, so does the attitude of the world change towards him.
 
+## Important tech articles
+
+[Where art thou, my error?](https://artsy.github.io/blog/2018/10/19/where-art-thou-my-error/) - error handling in GraphQL schema by Artsy
+
 ## Video worth watching
 
 - [Agile Everywhere!](https://www.youtube.com/watch?v=moKG0RQNiqM) by Henrik Kniberg
