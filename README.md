@@ -18,6 +18,10 @@ If not in person, you can find me on [Medium](https://medium.com/@jaroslavkubice
 - [[CZ only] Funkční Team](https://www.youtube.com/watch?v=AnF3ZWND8Bw&t=63s) - by Kolda
 - [[CZ only] Jak správně přemýšlet nad prací vývojářů?](https://mladypodnikatel.cz/tomas-rehor-pipedrive-jak-spravne-premyslet-nad-praci-vyvojaru-t36548) by Tomáš Řehoř
 
+## Tools
+
+- [http://react-devtools-tutorial.now.sh/](http://react-devtools-tutorial.now.sh/)
+
 ## Studies & theories I find interesting
 
 - [Inglehart–Welzel cultural map of the world](https://en.wikipedia.org/wiki/Inglehart–Welzel_cultural_map_of_the_world)
