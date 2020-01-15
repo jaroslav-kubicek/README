@@ -12,9 +12,15 @@ If not in person, you can find me on [Medium](https://medium.com/@jaroslavkubice
 
 ## Videos
 
+#### Relay
+
+- [Building The New Facebook With React and Relay | Ashley Watkins](https://www.youtube.com/watch?v=KT3XKDBZW7M)
+- [Data Fetching With Suspense In Relay | Joe Savona](https://www.youtube.com/watch?v=Tl0S7QkxFE4)
+
 #### Processes
 
 - [Agile Everywhere!](https://www.youtube.com/watch?v=moKG0RQNiqM) by Henrik Kniberg
+- [[CZ only] Jan Mühlfeit – Pro Billa Gatese bych pracoval i za stravenky | LIDÉ Z PRAXE](https://www.youtube.com/watch?v=ttSX0qkWBd0)
 - [[CZ only] Funkční Team](https://www.youtube.com/watch?v=AnF3ZWND8Bw&t=63s) - by Kolda
 - [[CZ only] Jak správně přemýšlet nad prací vývojářů?](https://mladypodnikatel.cz/tomas-rehor-pipedrive-jak-spravne-premyslet-nad-praci-vyvojaru-t36548) by Tomáš Řehoř
 
