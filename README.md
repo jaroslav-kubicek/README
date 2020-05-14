@@ -29,6 +29,7 @@ If not in person, you can find me on [Medium](https://medium.com/@jaroslavkubice
 ## Tools
 
 - [http://react-devtools-tutorial.now.sh/](http://react-devtools-tutorial.now.sh/)
+- [Build a Better Mobile Input](https://better-mobile-inputs.netlify.app/)
 
 ## Demos
 
