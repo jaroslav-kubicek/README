@@ -36,7 +36,7 @@ If not in person, you can find me on [Medium](https://medium.com/@jaroslavkubice
 
 - [Static ediable site](https://next-preview.now.sh/) - with possibility to share edit previews via link
 - [Dynamically create new static site](https://static-tweet.now.sh/) - create static html page on demand on dynamic route
-- [Serveri side props](https://next-code-elimination.now.sh/) - fetch data on server and strip this data fetching code from client bundle
+- [Server side props](https://next-code-elimination.now.sh/) - fetch data on server and strip this data fetching code from client bundle
 
 ## Studies & theories I find interesting
 
