@@ -30,6 +30,14 @@ If not in person, you can find me on [Medium](https://medium.com/@jaroslavkubice
 
 - [http://react-devtools-tutorial.now.sh/](http://react-devtools-tutorial.now.sh/)
 
+## Demos
+
+#### Next.js
+
+- [Static ediable site](https://next-preview.now.sh/) - with possibility to share edit previews via link
+- [Dynamically create new static site](https://static-tweet.now.sh/) - create static html page on demand on dynamic route
+- [Serveri side props](https://next-code-elimination.now.sh/) - fetch data on server and strip this data fetching code from client bundle
+
 ## Studies & theories I find interesting
 
 - [Inglehart–Welzel cultural map of the world](https://en.wikipedia.org/wiki/Inglehart–Welzel_cultural_map_of_the_world)
