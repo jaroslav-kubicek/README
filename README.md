@@ -8,9 +8,16 @@ If not in person, you can find me on [Medium](https://medium.com/@jaroslavkubice
 
 ## Articles
 
+#### GraphQL 
 - [Where art thou, my error?](https://artsy.github.io/blog/2018/10/19/where-art-thou-my-error/) - error handling in GraphQL schema by Artsy
+
+#### Frontend
 - [Common mistakes with React Testing Library](https://kentcdodds.com/blog/common-mistakes-with-react-testing-library) - best pracites on using [@testing-library/react](https://testing-library.com/docs/react-testing-library/intro) in unit tests
+
+#### Infrastructure
+
 - [Pass Docker Environment Variables During The Image Build](https://vsupalov.com/docker-build-pass-environment-variables/) - env variables in Docker images
+- [Monitoring 101: Alerting on what matters](https://www.datadoghq.com/blog/monitoring-101-alerting/) - Datadog recommendations on alerting
 
 ## Videos
 
