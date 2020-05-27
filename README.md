@@ -26,6 +26,10 @@ If not in person, you can find me on [Medium](https://medium.com/@jaroslavkubice
 - [Building The New Facebook With React and Relay | Ashley Watkins](https://www.youtube.com/watch?v=KT3XKDBZW7M)
 - [Data Fetching With Suspense In Relay | Joe Savona](https://www.youtube.com/watch?v=Tl0S7QkxFE4)
 
+#### Testing
+
+- [Detecting the unexpected in React applications](https://www.youtube.com/watch?v=GIPbY75-lEo) - how to use property based testing in unit tests to prevent race conditions
+
 #### Processes
 
 - [Agile Everywhere!](https://www.youtube.com/watch?v=moKG0RQNiqM) by Henrik Kniberg
