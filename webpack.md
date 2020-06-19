@@ -9,4 +9,5 @@
 
 #### Resources
 
-- https://blog.logrocket.com/new-features-in-webpack-5-2559755adf5e/
+- [New features in webpack 5](https://blog.logrocket.com/new-features-in-webpack-5-2559755adf5e/)
+- [Webpack 5 - Why Breaking Changes? What is next? - Tobias Koppers](https://www.youtube.com/watch?v=p-MhcctQBlY)
