@@ -13,6 +13,7 @@ If not in person, you can find me on [Medium](https://medium.com/@jaroslavkubice
 
 #### Frontend
 - [Common mistakes with React Testing Library](https://kentcdodds.com/blog/common-mistakes-with-react-testing-library) - best pracites on using [@testing-library/react](https://testing-library.com/docs/react-testing-library/intro) in unit tests
+- [Using ESLint and Prettier in a TypeScript Project](https://www.robertcooper.me/using-eslint-and-prettier-in-a-typescript-project)
 
 #### Infrastructure
 
