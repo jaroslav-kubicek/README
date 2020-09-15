@@ -43,6 +43,10 @@ If not in person, you can find me on [Medium](https://medium.com/@jaroslavkubice
 - [http://react-devtools-tutorial.now.sh/](http://react-devtools-tutorial.now.sh/)
 - [Build a Better Mobile Input](https://better-mobile-inputs.netlify.app/)
 
+## Tips
+
+- [How to test next.js API routes](https://github.com/willianantunes/nextjs-playground/blob/a605cc28aca9fae926ef223ce88b72ab35229249/__tests__/integration/pages/api/page-details.spec.test.js)
+
 ## Demos
 
 #### Next.js
