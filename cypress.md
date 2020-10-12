@@ -16,6 +16,8 @@
 - [Testing Sentry Call with Cypress](https://glebbahmutov.com/blog/testing-sentry-with-cypress/)
 - [Connecting crash reporting with end to end tests](https://glebbahmutov.com/blog/connecting-crash-reporting-with-end-to-end-tests/)
 
-## Notes
+## Notes & tips
 
+- [Using tags to filter your Cypress tests](https://www.mariedrake.com/post/using-tags-to-filter-your-cypress-tests)
+- [How to parse cypress cli args and implement wrapper](https://docs.cypress.io/guides/guides/module-api.html#cypress-cli)
 - Cypress can't rerun only failed tests in parallelization: https://github.com/cypress-io/cypress/issues/3995#issuecomment-495101992
