@@ -20,5 +20,6 @@
 
 - [Tip how to implement "inViewport" assertion](https://github.com/cypress-io/cypress/issues/877)
 - [Using tags to filter your Cypress tests](https://www.mariedrake.com/post/using-tags-to-filter-your-cypress-tests)
+- [Alternative way for filtering by tag, using Mocha](https://github.com/cypress-io/cypress/issues/1865#issuecomment-601585432)
 - [How to parse cypress cli args and implement wrapper](https://docs.cypress.io/guides/guides/module-api.html#cypress-cli)
 - Cypress can't rerun only failed tests in parallelization: https://github.com/cypress-io/cypress/issues/3995#issuecomment-495101992
