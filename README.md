@@ -63,6 +63,7 @@ If not in person, you can find me on [Medium](https://medium.com/@jaroslavkubice
 ## Studies & theories I find interesting
 
 - [Inglehart–Welzel cultural map of the world](https://en.wikipedia.org/wiki/Inglehart–Welzel_cultural_map_of_the_world)
+- [Hofstede's cultural dimensions theory](https://en.wikipedia.org/wiki/Hofstede%27s_cultural_dimensions_theory)
 
 ## TODOs
 
