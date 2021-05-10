@@ -21,6 +21,10 @@ If not in person, you can find me on [Medium](https://medium.com/@jaroslavkubice
 - [Pass Docker Environment Variables During The Image Build](https://vsupalov.com/docker-build-pass-environment-variables/) - env variables in Docker images
 - [Monitoring 101: Alerting on what matters](https://www.datadoghq.com/blog/monitoring-101-alerting/) - Datadog recommendations on alerting
 
+#### FE patterns
+
+- [React compound components](https://blog.logrocket.com/guide-to-react-compound-components-9c4b3eb482e9/)
+
 #### Architecture
 
 - [Organisational Dysfunctions Mirrored as Architectural Complexity](https://medium.com/nick-tune-tech-strategy-blog/organisational-dysfunctions-mirrored-as-architectural-complexity-b5a903b3f5b2)
