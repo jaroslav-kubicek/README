@@ -31,6 +31,10 @@ If not in person, you can find me on [Medium](https://medium.com/@jaroslavkubice
 
 ## Videos
 
+#### GraphQL
+
+- [Getting Acquainted with Defer and Stream - Eve Porcello](https://www.youtube.com/watch?v=KwmCS2ZZPdk)
+
 #### Relay
 
 - [Building The New Facebook With React and Relay | Ashley Watkins](https://www.youtube.com/watch?v=KT3XKDBZW7M)
