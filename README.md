@@ -94,15 +94,16 @@ This poses the following personality traits:
 
 #### Values
 
-- Passivity kills creativity & creates technical debt
-- Any technology or programming language is tool you can change, not golden calf.
+- Passivity kills creativity & creates debt
+- Any technology is tool you can change, not golden calf.
 - If we could change ourselves, the tendencies in the world would also change. As a man changes his own nature, so does the attitude of the world change towards him.
 
 #### Lifetime goals
 
-These are some long-term, life goals I would like to accomplish so I can tell myself I went through life to its fullest potential and feel ultimately happy. Some items might change, disappear or to be added.
+These are some long-term, life goals I would like to accomplish so I can tell myself I went through life to its fullest potential and feel ultimately happy.
 
-- Do marathon under 3:30 h
+-  ✔️ Do marathon under 3:30 h
+- Speak Spanish fluently (possible to watch movies, read books, have a talk)
 - Do the whole Route 40 in Argentina + Carretera Austral in Chile
 - Get pilot licence to fly with Cessna
 - Learn to sail
