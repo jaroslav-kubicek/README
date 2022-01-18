@@ -1,3 +1,7 @@
+# K8s
+
+- [Everything Useful I Know About kubectl](https://www.atomiccommits.io/everything-useful-i-know-about-kubectl)
+
 # Publishing docker images on Github
 
 - [Publishing Docker images](https://docs.github.com/en/actions/guides/publishing-docker-images)
