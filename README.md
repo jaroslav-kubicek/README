@@ -25,6 +25,11 @@ If not in person, you can find me on [Medium](https://medium.com/@jaroslavkubice
 
 - [React compound components](https://blog.logrocket.com/guide-to-react-compound-components-9c4b3eb482e9/)
 
+#### Eslint
+
+- [Custom Rules for Typescript](https://typescript-eslint.io/docs/development/custom-rules/)
+- [Working with Rules](https://eslint.org/docs/latest/developer-guide/working-with-rules)
+
 #### Architecture
 
 - [Organisational Dysfunctions Mirrored as Architectural Complexity](https://medium.com/nick-tune-tech-strategy-blog/organisational-dysfunctions-mirrored-as-architectural-complexity-b5a903b3f5b2)
