@@ -1,4 +1,4 @@
-[# README
+# README
 
 Hi! I'm Jaroslav and this is my README manual to myself.
 
