@@ -9,6 +9,9 @@ If not in person, you can find me on [Medium](https://medium.com/@jaroslavkubice
 ## Articles
 
 #### GraphQL 
+
+- [Subscriptions and Live Queries - Real Time with GraphQL](https://the-guild.dev/blog/subscriptions-and-live-queries-real-time-with-graphql)
+- [Using Custom Directives with Apollo Federation](https://dev.to/mandiwise/using-custom-directives-with-apollo-federation-4o6p)
 - [Where art thou, my error?](https://artsy.github.io/blog/2018/10/19/where-art-thou-my-error/) - error handling in GraphQL schema by Artsy
 
 #### Frontend
@@ -20,6 +23,7 @@ If not in person, you can find me on [Medium](https://medium.com/@jaroslavkubice
 
 - [Pass Docker Environment Variables During The Image Build](https://vsupalov.com/docker-build-pass-environment-variables/) - env variables in Docker images
 - [Monitoring 101: Alerting on what matters](https://www.datadoghq.com/blog/monitoring-101-alerting/) - Datadog recommendations on alerting
+- [Say hello to Devboxes](https://medium.com/pipedrive-engineering/say-hello-to-devboxes-fab125cd793a)
 
 #### FE patterns
 
@@ -117,4 +121,3 @@ These are some long-term, life goals I would like to accomplish so I can tell my
 ## Credits
 
 This Readme idea was stolen with no scruples from my former colleague: https://github.com/mrtnzlml/meta
-](https://dev.to/mandiwise/using-custom-directives-with-apollo-federation-4o6p)
