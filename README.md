@@ -29,6 +29,12 @@ If not in person, you can find me on [Medium](https://medium.com/@jaroslavkubice
 
 - [React compound components](https://blog.logrocket.com/guide-to-react-compound-components-9c4b3eb482e9/)
 
+#### Web perfs & lighthouse
+
+- [Web Performance Recipes With Puppeteer](https://addyosmani.com/blog/puppeteer-recipes/#lighthouse-metrics) - Addy Osmani
+- [Lighthouse DOCs](https://developer.chrome.com/docs/lighthouse/overview/)
+- []()
+
 #### Eslint
 
 - [Custom Rules for Typescript](https://typescript-eslint.io/docs/development/custom-rules/)
@@ -69,6 +75,7 @@ If not in person, you can find me on [Medium](https://medium.com/@jaroslavkubice
 ## Tips
 
 - [How to test next.js API routes](https://github.com/willianantunes/nextjs-playground/blob/a605cc28aca9fae926ef223ce88b72ab35229249/__tests__/integration/pages/api/page-details.spec.test.js)
+- [Supercharging GitHub Actions with Job Summaries](https://github.blog/2022-05-09-supercharging-github-actions-with-job-summaries/)
 
 ## Demos
 
