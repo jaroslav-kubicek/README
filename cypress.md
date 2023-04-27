@@ -15,6 +15,7 @@
 - [Asserting Network Calls from Cypress Tests](https://www.cypress.io/blog/2019/12/23/asserting-network-calls-from-cypress-tests/)
 - [Testing Sentry Call with Cypress](https://glebbahmutov.com/blog/testing-sentry-with-cypress/)
 - [Connecting crash reporting with end to end tests](https://glebbahmutov.com/blog/connecting-crash-reporting-with-end-to-end-tests/)
+- [Publish your Cypress Test Report with GitHub Actions](https://medium.com/swlh/publish-your-cypress-test-report-with-github-actions-47248788713a)
 
 ## Notes & tips
 
