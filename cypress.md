@@ -24,4 +24,5 @@
 - [Alternative way for filtering by tag, using Mocha](https://github.com/cypress-io/cypress/issues/1865#issuecomment-601585432)
 - [How to parse cypress cli args and implement wrapper](https://docs.cypress.io/guides/guides/module-api.html#cypress-cli)
 - [Typescript types for cy.task](https://github.com/cypress-io/cypress/issues/7136#issuecomment-657472427)
+- [Re-run The Tests By Clicking A Checkbox](https://glebbahmutov.com/blog/re-run-the-tests-with-checkbox/)
 - Cypress can't rerun only failed tests in parallelization: https://github.com/cypress-io/cypress/issues/3995#issuecomment-495101992
