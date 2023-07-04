@@ -37,7 +37,7 @@ If not in person, you can find me on [Medium](https://medium.com/@jaroslavkubice
 
 #### Eslint
 
-- [Custom Rules for Typescript](https://typescript-eslint.io/docs/development/custom-rules/)
+- [Custom Rules for Typescript](https://typescript-eslint.io/developers/custom-rules/)
 - [Working with Rules](https://eslint.org/docs/latest/developer-guide/working-with-rules)
 
 #### Architecture
