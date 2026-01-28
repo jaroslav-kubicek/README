@@ -18,6 +18,7 @@ If not in person, you can find me on [Medium](https://medium.com/@jaroslavkubice
 - [Common mistakes with React Testing Library](https://kentcdodds.com/blog/common-mistakes-with-react-testing-library) - best pracites on using [@testing-library/react](https://testing-library.com/docs/react-testing-library/intro) in unit tests
 - [Using ESLint and Prettier in a TypeScript Project](https://www.robertcooper.me/using-eslint-and-prettier-in-a-typescript-project)
 - [How to use React Context effectively](https://kentcdodds.com/blog/how-to-use-react-context-effectively)
+- [Fixing TypeScript Performance Problems: A Case Study](https://www.viget.com/articles/fixing-typescript-performance-problems)
 
 #### Infrastructure
 
